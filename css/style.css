@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; background: #fff; color: #333; margin: 0; }
+header { background: #b30000; color: white; padding: 20px; text-align: center; }
+nav { background: #333; text-align: center; padding: 10px 0; }
+nav a { color: white; margin: 0 15px; text-decoration: none; }
+nav a:hover { text-decoration: underline; }
+.hero { background: url('https://source.unsplash.com/1600x500/?family,office') no-repeat center/cover; height: 300px; display: flex; align-items: center; justify-content: center; color: white; font-size: 2rem; text-shadow: 2px 2px 5px #000; }
+.container { max-width: 1000px; margin: 20px auto; padding: 0 20px; }
+.card { background: #f9f9f9; padding: 20px; margin-bottom: 20px; border: 1px solid #ddd; border-radius: 5px; }
+footer { background: #333; color: white; text-align: center; padding: 20px; margin-top: 40px; }
